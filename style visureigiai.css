@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+.Fonas{
+    position: relative;
+    width: 100%;
+    max-width: 1795px;
+    margin: 0%;
+    z-index: -10;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.stulpelis{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.stulpelis2{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+a{
+    font-size: 30px;
+    color: silver;
+    font-weight: 900;
+}
+.image-button1{
+    background-image: url(RAM.jpg);
+    background-size: cover;/*50*/
+    color: white;
+    width: 300px;
+    height: 200px;
+}
+.image-button2{
+    background-image: url(Toyota1.jpg);
+    background-size: cover;/*50*/
+    color: white;
+    width: 300px;
+    height: 200px;
+}
+.image-button3{
+    background-image: url(Ford.jpg);
+    background-size: cover;/*50*/
+    color: white;
+    width: 300px;
+    height: 200px;
+}
+.image-button4{
+    background-image: url(Jeep.jpg);
+    background-size: cover;/*50*/
+    color: white;
+    width: 300px;
+    height: 200px;
+}
+.image-button5{
+    background-image: url(MB.jpg);
+    background-size: cover;/*50*/
+    color: white;
+    width: 300px;
+    height: 200px;
+}
+.image-button6{
+    background-image: url(Pajero.jpg);
+    background-size: cover;/*50*/
+    color: white;
+    width: 300px;
+    height: 200px;
+}
+.image-button7{
+    background-image: url(Q8.jpg);
+    background-size: cover;/*50*/
+    color: white;
+    width: 300px;
+    height: 200px;
+}
+.image-button8{
+    background-image: url(MP1.jpg);
+    background-size: cover;
+    color: white;
+    width: 300px;
+    height: 200px;
+}

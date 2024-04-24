@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    position: relative;   
+}
+.video-loop{
+    object-fit: cover;
+    position: absolute;
+    width: 100%;
+    max-width: 1350px;
+    margin: auto;
+    z-index: -10;
+}
+video{
+    width: 100%;
+    height: auto;
+}
+a{
+ font-size: 25px;
+ color: white;
+ font-weight: 900;
+
+}
+.stulpelis{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.image-button1{
+    background-image: url(MP1.jpg);
+    background-size:cover;/*50*/
+    color: white;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    border: 4px solid black;
+}
+.image-button2{
+    background-image: url(Dodge1.jpg);
+    background-size:cover;/*50*/
+    color: white;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    border: 4px solid black;
+}
+.image-button3{
+    background-image: url(Scania1.jpg);
+    background-size:cover;/*50*/
+    color: white;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    border: 4px solid black;
+}    
